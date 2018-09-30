@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_79"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/core-sdk"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/t15Encrypt"/>
+	<classpathentry kind="lib" path="lib/activemq-client-5.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-pool-5.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/activemq.jar"/>
+	<classpathentry kind="lib" path="lib/bcprov-jdk15on-156.jar"/>
+	<classpathentry kind="lib" path="lib/cassandra-all-2.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/cassandra-driver-core-2.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/cassandra-thrift-2.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool2-2.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/druid-1.0.11.jar"/>
+	<classpathentry kind="lib" path="lib/geo-converter-0.0.1-20130712.004734-1.jar"/>
+	<classpathentry kind="lib" path="lib/guava-14.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/javaee.jar"/>
+	<classpathentry kind="lib" path="lib/jedis-2.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/libthrift-0.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="lib/metrics-core-3.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/mina-core-2.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/netty-3.6.3.Final.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="lib/snappy-java-1.0.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/ezmorph-1.0.3.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/core-common-t15"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
